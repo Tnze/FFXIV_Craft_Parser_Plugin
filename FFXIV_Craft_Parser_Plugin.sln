@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIV_Craft_Parser_Plugin", "FFXIV_Craft_Parser_Plugin.csproj", "{7284FF57-5FDF-4C4C-AA4D-55F3F8880D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7284FF57-5FDF-4C4C-AA4D-55F3F8880D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7284FF57-5FDF-4C4C-AA4D-55F3F8880D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7284FF57-5FDF-4C4C-AA4D-55F3F8880D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7284FF57-5FDF-4C4C-AA4D-55F3F8880D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4445DAC7-8AAD-4DF7-88DE-7AB20FC2D315}
+	EndGlobalSection
+EndGlobal

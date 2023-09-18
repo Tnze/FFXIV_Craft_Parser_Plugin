@@ -1,0 +1,1 @@
+# FFXIV_Craft_Parser_Plugin
